@@ -1,5 +1,5 @@
 # Genesis
-Code is based on "JavaScript - The Complete Guide 2024" course
+The code is based on the "JavaScript - The Complete Guide 2024" course 
 
 [About course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=ST8MT101424)
 
